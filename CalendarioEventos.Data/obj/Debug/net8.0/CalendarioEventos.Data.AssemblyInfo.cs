@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalendarioEventos.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51e9b251318b7d0d4af78a7f1a23253f8008135b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalendarioEventos.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalendarioEventos.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

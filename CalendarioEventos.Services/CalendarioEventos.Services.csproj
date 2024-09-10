@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CalendarioEventos.Entities\CalendarioEventos.Entities.csproj" />
+    <ProjectReference Include="..\CalendarioEventos.Data\CalendarioEventos.Data.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

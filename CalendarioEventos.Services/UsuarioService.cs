@@ -1,23 +1,24 @@
 using CalendarioEventos.Data;
 using CalendarioEventos.Entities;
 
-namespace CalendarioEventos.Service
+
+namespace CalendarioEventos.Services
 {
-    public class EventoService : IEventoService
+    public class UsuarioService : IUsuarioService
     {
-        private readonly IEventoRepository _eventoRepository;
+        private readonly IUsuarioRepository _usuarioRepository;
 
         public UsuarioService ( IUsuarioRepository usuarioRepository)
         {
             _usuarioRepository = usuarioRepository;
         }
 
-        public Usuario CrearUsuario ( Usuario usuario )
+         public Usuario CrearUsuario ( Usuario usuario )
         {
             return _usuarioRepository.Crear(usuario);
         }
 
-        public Usuario ObtenerPorId ( int id)
+        public Usuario ObtenerUsuarioPorId ( int id)
         {
             return _usuarioRepository.ObtenerPorId(id);
         }

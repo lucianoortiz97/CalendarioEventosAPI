@@ -3,3 +3,14 @@ D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Deb
 D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.AssemblyInfoInputs.cache
 D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.AssemblyInfo.cs
 D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.sourcelink.json
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\bin\Debug\net8.0\CalendarioEventos.Data.deps.json
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\bin\Debug\net8.0\CalendarioEventos.Data.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\bin\Debug\net8.0\CalendarioEventos.Data.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\bin\Debug\net8.0\CalendarioEventos.Entities.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\bin\Debug\net8.0\CalendarioEventos.Entities.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\Calendar.43446E89.Up2Date
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\refint\CalendarioEventos.Data.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\ref\CalendarioEventos.Data.dll

@@ -135,6 +135,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "CalendarioEventos.Data": "1.0.0",
           "CalendarioEventos.Entities": "1.0.0"
         },
         "compile": {

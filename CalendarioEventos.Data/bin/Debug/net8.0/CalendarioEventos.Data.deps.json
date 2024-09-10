@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalendarioEventos.Data/1.0.0": {
+        "dependencies": {
+          "CalendarioEventos.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CalendarioEventos.Data.dll": {}
+        }
+      },
+      "CalendarioEventos.Entities/1.0.0": {
+        "runtime": {
+          "CalendarioEventos.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalendarioEventos.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalendarioEventos.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -3,3 +3,16 @@ D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj
 D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\CalendarioEventos.Services.AssemblyInfoInputs.cache
 D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\CalendarioEventos.Services.AssemblyInfo.cs
 D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\CalendarioEventos.Services.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\CalendarioEventos.Services.sourcelink.json
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\bin\Debug\net8.0\CalendarioEventos.Services.deps.json
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\bin\Debug\net8.0\CalendarioEventos.Services.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\bin\Debug\net8.0\CalendarioEventos.Services.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\bin\Debug\net8.0\CalendarioEventos.Data.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\bin\Debug\net8.0\CalendarioEventos.Entities.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\bin\Debug\net8.0\CalendarioEventos.Entities.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\bin\Debug\net8.0\CalendarioEventos.Data.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\Calendar.CD4B8348.Up2Date
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\CalendarioEventos.Services.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\refint\CalendarioEventos.Services.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\CalendarioEventos.Services.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Services\obj\Debug\net8.0\ref\CalendarioEventos.Services.dll

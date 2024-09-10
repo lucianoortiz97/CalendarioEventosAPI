@@ -1,6 +1,6 @@
 using CalendarioEventos.Entities;
 
-namespace CalendarioEventos.Service
+namespace CalendarioEventos.Services
 {
     public interface IUsuarioService
     {

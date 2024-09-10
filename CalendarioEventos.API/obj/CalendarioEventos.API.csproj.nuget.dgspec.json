@@ -236,6 +236,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\Usuario\\Desktop\\Devlights\\CalendarioEventosAPI\\CalendarioEventos.Data\\CalendarioEventos.Data.csproj": {
+                "projectPath": "D:\\Usuario\\Desktop\\Devlights\\CalendarioEventosAPI\\CalendarioEventos.Data\\CalendarioEventos.Data.csproj"
+              },
               "D:\\Usuario\\Desktop\\Devlights\\CalendarioEventosAPI\\CalendarioEventos.Entities\\CalendarioEventos.Entities.csproj": {
                 "projectPath": "D:\\Usuario\\Desktop\\Devlights\\CalendarioEventosAPI\\CalendarioEventos.Entities\\CalendarioEventos.Entities.csproj"
               }

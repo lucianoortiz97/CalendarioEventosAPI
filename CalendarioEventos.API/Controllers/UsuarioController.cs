@@ -4,9 +4,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CalendarioEventos.API.Controllers
 {
-    [APIController]
+    [ApiController]
     [Route("api/[controller]")]
-    public class EventosController : ControllerBase
+    public class UsuarioController : ControllerBase
     {
         private readonly IUsuarioService _usuarioService;
 
@@ -34,7 +34,7 @@ namespace CalendarioEventos.API.Controllers
         [HttpPut("{id}")]
         public IActionResult ActualizarUsuario( int id, [FromBody] Usuario usuario)
         {
-            usuario.ID = id;
+            usuario.Id = id;
             _usuarioService.ActualizarUsuario(usuario);
             return NoContent();
         }
