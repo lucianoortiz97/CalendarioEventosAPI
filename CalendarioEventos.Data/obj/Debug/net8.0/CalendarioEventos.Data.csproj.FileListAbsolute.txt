@@ -1,0 +1,5 @@
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.AssemblyInfo.cs
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Data\obj\Debug\net8.0\CalendarioEventos.Data.csproj.CoreCompileInputs.cache

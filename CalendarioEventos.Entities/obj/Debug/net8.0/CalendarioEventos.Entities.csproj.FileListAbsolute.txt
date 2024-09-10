@@ -1,0 +1,11 @@
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\CalendarioEventos.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\CalendarioEventos.Entities.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\CalendarioEventos.Entities.AssemblyInfo.cs
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\CalendarioEventos.Entities.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\bin\Debug\net8.0\CalendarioEventos.Entities.deps.json
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\bin\Debug\net8.0\CalendarioEventos.Entities.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\bin\Debug\net8.0\CalendarioEventos.Entities.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\CalendarioEventos.Entities.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\refint\CalendarioEventos.Entities.dll
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\CalendarioEventos.Entities.pdb
+D:\Usuario\Desktop\Devlights\CalendarioEventosAPI\CalendarioEventos.Entities\obj\Debug\net8.0\ref\CalendarioEventos.Entities.dll
